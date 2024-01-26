@@ -1,8 +1,6 @@
 ﻿# Udemig-School
 
- # HTML ve CSS Kodları kullanılarak oluşturuldu
-
- # Screen Gif
+ # Gif
 
  
 
