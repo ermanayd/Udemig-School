@@ -1,5 +1,7 @@
 ﻿# Udemig-School
 
+ -Proje Html ve Css kodları kullanarak oluşturuldu. 
+
  # Gif
 
  
